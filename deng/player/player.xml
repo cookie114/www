@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ckplayer>
+	<style>
+		<cpath></cpath>
+		<language></language>
+		<flashvars>{b->1}{p->1}{s->2}</flashvars>
+		<setup>1,1,1,1,1,2,0,1,0,0,0,1,200,0,2,1,0,1,1,1,0,10,3,0,1,0,3000,0,0,0,1,1,1,1,1,1,1,250,0</setup>
+		<pm_bg>0x000000,100,230,180</pm_bg>
+		<mylogo>logo.swf</mylogo>
+		<pm_mylogo>1,1,-250,-190</pm_mylogo>
+		<logo>cklogo.png</logo>
+		<pm_logo>2,0,-100,20</pm_logo>
+		<control_rel>,,0</control_rel>
+		<control_pv>Preview.swf,105,2000</control_pv>
+		<pm_repc></pm_repc>
+		<pm_spac>|</pm_spac>
+		<pm_fpac>file->f</pm_fpac>
+		<pm_advtime>2,0,-110,10,0,300,0</pm_advtime>
+		<pm_advstatus>1,2,2,-200,-40</pm_advstatus>
+		<pm_advjp>1,0,2,2,-100,-40</pm_advjp>
+		<pm_padvc>2,0,-10,-10</pm_padvc>
+		<pm_advms>2,2,-46,-56</pm_advms>
+		<pm_zip>1,1,-20,-8,1,0,0</pm_zip>
+		<pm_advmarquee>1,2,130,-23,130,17,0,0x000000,50,0,20,1,15,2000</pm_advmarquee>
+		<advmarquee></advmarquee>
+		<myweb>7daa475e39ceba0deaad5dbba4810918,网络同步电视播放器,http://tv.lhkjw.com,Version:3.9</myweb>
+		<cpt>select_a.swf,2,2,-200,-30,2,1</cpt>
+		<cpt>select_b.swf,1,1,-180,-100,3,0</cpt>
+		<cpt>Proportion.swf,2,2,-240,-36,2</cpt>
+		<cpt>downloadspeeds.swf,2,2,-370,-28,2</cpt>
+	</style>
+</ckplayer>

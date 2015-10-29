@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">  
+<html>  
+ <head>  
+  <title>JScharts Test</title>  
+ </head>  
+ <body>  
+<script type="text/javascript" src="./jscharts.js"></script>  
+<div id="chartcontainer">This is just a replacement in case Javascript is not available or used for SEO purposes</div>  
+<script type="text/javascript">  
+//var myData = new Array([10,20], [15,10], [20,30], [25,10], [30,5]);  
+//var myChart = new JSChart('chartcontainer', 'line');  
+
+var myData = new Array(['Unit 1',20], ['Unit 2',10], ['Unit 3',30], ['Unit 4',10],['Unit 5',5]);
+//var myChart = new JSChart('chartcontainer', 'bar');
+var myChart = new JSChart('chartcontainer', 'pie');
+
+myChart.setDataArray(myData);  
+myChart.draw();  
+</script>  
+
+<div id="chart2">This is just a replacement in case Javascript is not available or used for SEO purposes</div>  
+<script type="text/javascript">  
+var myData = new Array([10,20], [15,10], [20,30], [25,10], [30,5]);  
+var myChart = new JSChart('chart2', 'line');  
+
+myChart.setDataArray(myData);  
+myChart.draw();  
+</script> 
+
+<script> 
+function hello(){ 
+	var myData = new Array([10,20], [15,10], [20,30], [25,10], [30,5]);  
+	var myChart = new JSChart('chart2', 'line');  
+
+	myChart.setDataArray(myData);  
+	myChart.draw();  
+
+//	alert("hello"); 
+} 
+//重复执行某个方法 
+var t1 = window.setInterval(hello,2000); 
+//var t2 = window.setInterval("hello()",3000); 
+//去掉定时器的方法 
+//window.clearInterval(t1); 
+</script> 
+
+ </body>  
+</html>  

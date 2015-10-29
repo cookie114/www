@@ -1,0 +1,1086 @@
+http://streamabr.jstv.com/live/jszy?fmt=x264_0k_flv&sora=15&sk=24F026DAE0A3C7959665E15B8B70F809&app=pcflash HTTP/1.1
+Host: streamabr.jstv.com
+
+
+recv-vd.gridsumdissector.com/gs.gif?gsve=2.0.0.1&vp=GVD-200053&gscm=lvpl&sr=1.000&sn=6&v=1108927449td1gz5j8&p=11100534063usxie23&adc=0&ab=0&ba=-&l=883&f=0&s=0&ss=0&fl=100&rs=0&rss=0&rf=100&b=1&tz=8&ge=156320000&vd=43&on=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&n=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&ch=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&wch=%E7%9B%B4%E6%92%AD~Live~epg&fo=-&tg=-&ed=-~-~-~-~-~-~-~-~-~-~&pc=1&cdn=-&pt=5&at=42&r=500!1.0~700!1.0~300!2.5~&cr=100&fr=0&af=25.00&pf=page&ac=-&e=-&os=Windows%207&bs=chrome%2036&t=%E6%B1%9F%E8%8B%8F%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E5%8F%B0%E9%AB%98%E6%B8%85%E7%9B%B4%E6%92%AD%20JSTV.COM&u=http%3A%2F%2Fstreamabr.jstv.com%2Flive%2Fjsws%3Ffmt%3Dx264_0k_flv%26sora%3D15&pu=http%3A%2F%2Flive.jstv.com%2F
+ recv-vd.gridsumdissector.cn/gs.gif?gsve=2.0.0.1&vp=GVD-200053&gscm=lvpl&sr=1.000&sn=6&v=1108927449td1gz5j8&p=11100534063usxie23&adc=0&ab=0&ba=-&l=883&f=0&s=0&ss=0&fl=100&rs=0&rss=0&rf=100&b=1&tz=8&ge=156320000&vd=43&on=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&n=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&ch=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&wch=%E7%9B%B4%E6%92%AD~Live~epg&fo=-&tg=-&ed=-~-~-~-~-~-~-~-~-~-~&pc=1&cdn=-&pt=5&at=42&r=500!1.0~700!1.0~300!2.5~&cr=100&fr=0&af=25.00&pf=page&ac=-&e=-&os=Windows%207&bs=chrome%2036&t=%E6%B1%9F%E8%8B%8F%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E5%8F%B0%E9%AB%98%E6%B8%85%E7%9B%B4%E6%92%AD%20JSTV.COM&u=http%3A%2F%2Fstreamabr.jstv.com%2Flive%2Fjsws%3Ffmt%3Dx264_0k_flv%26sora%3D15&pu=http%3A%2F%2Flive.jstv.com%2F
+ recv-vd.gridsumdissector.cn/gs.gif?gsve=2.0.0.1&vp=GVD-200053&gscm=lvpl&sr=1.000&sn=1&v=1108927449td1gz5j8&p=1110053507k144adws&adc=0&ab=0&ba=-&l=0&f=1&s=0&ss=0&fl=100&rs=0&rss=0&rf=100&b=1&tz=8&ge=156320000&vd=9&on=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA&n=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA&ch=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA&wch=%E7%9B%B4%E6%92%AD~Live~epg&fo=-&tg=-&ed=-~-~-~-~-~-~-~-~-~-~&pc=1&cdn=-&pt=0&at=0&pf=page&ac=-&e=-&os=Windows%207&bs=chrome%2036&t=%E6%B1%9F%E8%8B%8F%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E5%8F%B0%E9%AB%98%E6%B8%85%E7%9B%B4%E6%92%AD%20JSTV.COM&u=http%3A%2F%2Fstreamabr.jstv.com%2Flive%2Fjszy%3Ffmt%3Dx264_0k_flv%26sora%3D15&pu=http%3A%2F%2Flive.jstv.com%2F
+ recv-vd.gridsumdissector.cn/gs.gif?gsve=2.0.0.1&vp=GVD-200053&sp=GSD-200053&gscm=lvpl&sr=1.000&sn=1&v=1108927449td1gz5j8&p=1110053507k144adws&adc=0&ab=0&ba=-&l=0&f=1&s=0&ss=0&fl=100&rs=0&rss=0&rf=100&b=1&tz=8&ge=156320000&vd=9&on=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA&n=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA&ch=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA&wch=%E7%9B%B4%E6%92%AD~Live~epg&fo=-&tg=-&ed=-~-~-~-~-~-~-~-~-~-~&pc=1&cdn=-&pt=0&at=0&pf=page&ac=-&e=-&os=Windows%207&bs=chrome%2036&t=%E6%B1%9F%E8%8B%8F%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E5%8F%B0%E9%AB%98%E6%B8%85%E7%9B%B4%E6%92%AD%20JSTV.COM&u=http%3A%2F%2Fstreamabr.jstv.com%2Flive%2Fjszy%3Ffmt%3Dx264_0k_flv%26sora%3D15&pu=http%3A%2F%2Flive.jstv.com%2F
+
+生成 SK,并加入：
+http://streamabr.jstv.com/live/jszy?fmt=x264_0k_flv&sora=15&sk=XXXXXX&app=pcflash
+如下：
+http://streamabr.jstv.com/live/jszy?fmt=x264_0k_flv&sora=15&sk=24F026DAE0A3C7959665E15B8B70F809&app=pcflash
+
+
+http://newplayerapi.jstv.com/rest/getplayer_2.html
+
+
+{
+  "status": "ok",
+  "paramz": {
+    "timestamp": "2014-10-29/14:22:15",
+    "stations": [
+      {
+        "id": 11,
+        "name": "江苏广电",
+        "channels": [
+          {
+            "id": 44,
+            "name": "江苏国际",
+            "slug": "GJ",
+            "auto": "/live/jsgj?fmt=x264_0k_flv\u0026size=720x576\u0026sora=15",
+            "supor": "/live/jsgj?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jsgj?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jsgj?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/44/fde6e928cb2d404b9aea4c5e8fda3944.png "
+          },
+          {
+            "id": 43,
+            "name": "江苏卫视",
+            "slug": "JSWS",
+            "auto": "/live/jsws?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/jsws?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jsws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jsws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "http://live2014.jstv.com/live/jsws?fmt=x264_400k_mpegts\u0026size=720x576",
+            "logo": "/Attachs/Channel/43/2932868ce4104e74bd9c4108f60d2e96.png "
+          },
+          {
+            "id": 5,
+            "name": "江苏城市",
+            "slug": "JSCS",
+            "auto": "/live/jscs?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/jscs?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jscs?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jscs?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "http://live2014.jstv.com/live/jscs?fmt=x264_400k_mpegts\u0026size=720x576",
+            "logo": "/Attachs/Channel/5/6c8a42c42d004ccd85a479fe77b5f20d.png "
+          },
+          {
+            "id": 13,
+            "name": "江苏公共",
+            "slug": "JSGG",
+            "auto": "/live/jsgg?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/jsgg?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jsgg?fmt=x264_400k_flv\u0026size=720x576",
+            "fluent": "/live/jsgg?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/13/388bb06a95f74bc9bb30eef227bc2cbc.png "
+          },
+          {
+            "id": 10,
+            "name": "江苏影视",
+            "slug": "JSYS",
+            "auto": "/live/jsys?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/jsys?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jsys?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jsys?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/10/bad20b6a8130413e8a2673b0574edc2f.png "
+          },
+          {
+            "id": 9,
+            "name": "江苏综艺",
+            "slug": "JSZY",
+            "auto": "/live/jszy?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/jszy?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jszy?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jszy?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/9/2443d23cb64e4beaa89bf1ea54f38b14.png "
+          },
+          {
+            "id": 11,
+            "name": "江苏休闲",
+            "slug": "JSXX",
+            "auto": "/live/jsxx?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/jsxx?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jsxx?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jsxx?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/11/e3dac8e12e9144acaffdff58bd4eff64.png "
+          },
+          {
+            "id": 12,
+            "name": "优漫卡通",
+            "slug": "YMKT",
+            "auto": "/live/ymkt?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/ymkt?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/ymkt?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/ymkt?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/12/cf8faee7e723489294ef9e5ae13c33ec.png "
+          },
+          {
+            "id": 15,
+            "name": "好享购物",
+            "slug": "HXGW",
+            "auto": "/live/hxgw?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/hxgw?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/hxgw?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/hxgw?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/15/cc04d0f9c2f74069abe408446b7d0f74.png "
+          },
+          {
+            "id": 14,
+            "name": "江苏靓妆",
+            "slug": "JSLZ",
+            "auto": "/live/lzpd?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/lzpd?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/lzpd?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/lzpd?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/14/2d1f35722e2d44b88d7185468d4e9bb8.png "
+          },
+          {
+            "id": 17,
+            "name": "学习频道",
+            "slug": "XXPD",
+            "auto": "/live/xxpd?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/xxpd?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/xxpd?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/xxpd?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/17/a48eb260b57b4e9f8f956cd54e989f3f.png "
+          },
+          {
+            "id": 16,
+            "name": "江苏教育",
+            "slug": "JSJY",
+            "auto": "/live/jsjy?fmt=x264_0k_flv\u0026sora=15",
+            "supor": "/live/jsjy?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/jsjy?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jsjy?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/16/ca03d22759534d6eb8516e63d8fa703c.png "
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "省级卫视",
+        "channels": [
+          {
+            "id": 6,
+            "name": "湖南卫视",
+            "slug": "HNWS",
+            "auto": "/live/hnws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/hnws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/hnws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/hnws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/6/3b99dbe48fd84d028659c75867eb22a3.png "
+          },
+          {
+            "id": 7,
+            "name": "浙江卫视",
+            "slug": "ZJWS",
+            "auto": "/live/zjws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/zjws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/zjws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/zjws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/7/8690c209f32847afb7f26463592ab934.png "
+          },
+          {
+            "id": 18,
+            "name": "东方卫视",
+            "slug": "DFWS",
+            "auto": "/live/dfws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/dfws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/dfws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/dfws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/18/cccb83ea511a4c789b32f824ac9c77cf.png "
+          },
+          {
+            "id": 21,
+            "name": "北京卫视",
+            "slug": "BJWS",
+            "auto": "/live/bjws?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/bjws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/bjws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/bjws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/21/f00010f971444356b50d3b3a0b17e893.png "
+          },
+          {
+            "id": 22,
+            "name": "天津卫视",
+            "slug": "TJWS",
+            "auto": "/live/tjws?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/tjws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/tjws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/tjws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/22/23bdee2d3b7b4a4590c589bbccab7ac7.png "
+          },
+          {
+            "id": 23,
+            "name": "辽宁卫视",
+            "slug": "LNWS",
+            "auto": "/live/lnws?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/lnws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/lnws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/lnws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/23/1e548659ef494fa487bac1776ad0d9d1.png "
+          },
+          {
+            "id": 19,
+            "name": "安徽卫视",
+            "slug": "AHWS",
+            "auto": "/live/ahws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/ahws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/ahws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/ahws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/19/70345171d6e94d709df775b5c4c1bf5b.png "
+          },
+          {
+            "id": 24,
+            "name": "广东卫视",
+            "slug": "GDWS",
+            "auto": "/live/gdws?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/gdws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/gdws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/gdws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/24/e59a2129f11d4ce4a735fab933e3a422.png "
+          },
+          {
+            "id": 20,
+            "name": "山东卫视",
+            "slug": "SDWS",
+            "auto": "/live/sdws?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/sdws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/sdws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/sdws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/20/689e56787cd8411fad4806dc44b92051.png "
+          },
+          {
+            "id": 25,
+            "name": "宁夏卫视",
+            "slug": "NXWS",
+            "auto": "/live/nxws?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/nxws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/nxws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/nxws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/25/05840242038f4f7e8de172d182039221.png "
+          },
+          {
+            "id": 26,
+            "name": "旅游卫视",
+            "slug": "LYWS",
+            "auto": "/live/lyws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/lyws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/lyws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/lyws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/26/5cfd89d19eee4a49851974cbc6cebda4.png "
+          },
+          {
+            "id": 45,
+            "name": "重庆卫视",
+            "slug": "CQWS",
+            "auto": "/live/cqws?fmt=x264_0k_flv\u0026size=720x576\u0026sora=31",
+            "supor": "/live/cqws?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/cqws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cqws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/45/6e7fe873d2cf4d09897a4c278bd8f5da.png "
+          },
+          {
+            "id": 47,
+            "name": "东南卫视",
+            "slug": "DNWS",
+            "auto": "/live/dongnanws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/dongnanws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/dongnanws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/dongnanws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/47/a0dad522ca184950909db45eb0f3c7b7.png "
+          },
+          {
+            "id": 48,
+            "name": "广西卫视",
+            "slug": "GXWS",
+            "auto": "/live/gxws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/gxws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/gxws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/gxws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/48/4764e0b495164a8e827a51d554082a18.png "
+          },
+          {
+            "id": 49,
+            "name": "四川卫视",
+            "slug": "SCWS",
+            "auto": "/live/scws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/scws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/scws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/scws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/49/10f466b70cc7486c9a3374f48753a93a.png "
+          },
+          {
+            "id": 50,
+            "name": "吉林卫视",
+            "slug": "JLWS",
+            "auto": "/live/jlws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/jlws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/jlws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jlws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/50/8c6f8ec3d89a414989b30a2642a578be.png "
+          },
+          {
+            "id": 51,
+            "name": "黑龙江卫视",
+            "slug": "HLJWS",
+            "auto": "/live/hljws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/hljws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/hljws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/hljws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/51/83f2764ab3304e98aeab41d2bb811e51.png "
+          },
+          {
+            "id": 52,
+            "name": "贵州卫视",
+            "slug": "GZWS",
+            "auto": "/live/gzws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/gzws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/gzws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/gzws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/52/bfa8d57ef9bf43b38271b6c8e925cf12.png "
+          },
+          {
+            "id": 53,
+            "name": "青海卫视",
+            "slug": "QHWS",
+            "auto": "/live/qhws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/qhws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/qhws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/qhws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/53/2a577328ed5849a9b820d7d90280b1ae.png "
+          },
+          {
+            "id": 54,
+            "name": "河南卫视",
+            "slug": "HENWS",
+            "auto": "/live/henanws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/henanws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/henanws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/henanws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/54/d7fcd1d4e3494c838d3e114d1df619e0.png "
+          },
+          {
+            "id": 55,
+            "name": "山西卫视",
+            "slug": "SXWS",
+            "auto": "/live/sxws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/sxws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/sxws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/sxws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/55/76e4874e1b394a85bc9dc89e60ae5188.png "
+          },
+          {
+            "id": 56,
+            "name": "江西卫视",
+            "slug": "JXWS",
+            "auto": "/live/jxws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/jxws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/jxws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jxws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/56/39de1e67c2e54bc18f8ca42d5e81b984.png "
+          },
+          {
+            "id": 57,
+            "name": "深圳卫视",
+            "slug": "SZWS",
+            "auto": "/live/szws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/szws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/szws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/szws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/57/c8e08859004e4667bddae51a6a869908.png "
+          },
+          {
+            "id": 58,
+            "name": "河北卫视",
+            "slug": "HEBWS",
+            "auto": "/live/hebeiws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/hebeiws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/hebeiws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/hebeiws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/58/95e45476b3ff4c44885032ffc7ed1e97.png "
+          },
+          {
+            "id": 59,
+            "name": "云南卫视",
+            "slug": "YNWS",
+            "auto": "/live/ynws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/ynws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/ynws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/ynws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/59/8f080b82585549a6a262c08976b6463c.png "
+          },
+          {
+            "id": 60,
+            "name": "甘肃卫视",
+            "slug": "GSWS",
+            "auto": "/live/gsws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/gsws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/gsws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/gsws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/60/f9e5bd9a1abc42bcb8cc5baa28c821a0.png "
+          },
+          {
+            "id": 61,
+            "name": "新疆卫视",
+            "slug": "XJWS",
+            "auto": "/live/xjws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/xjws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/xjws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/xjws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/61/aa7df6eed48545b8b1dd289b77bbd0e2.png "
+          },
+          {
+            "id": 62,
+            "name": "内蒙古卫视",
+            "slug": "NMGWS",
+            "auto": "/live/nmgws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/nmgws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/nmgws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/nmgws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/62/228d05faabd24c608bee363c6c3a3d08.png "
+          },
+          {
+            "id": 46,
+            "name": "湖北卫视",
+            "slug": "HBWS",
+            "auto": "/live/hubeiws?fmt=x264_0k_flv\u0026size=720x576\u0026sora=31",
+            "supor": "/live/hubeiws?fmt=x264_700k_flv\u0026size=720x576",
+            "high": "/live/hubeiws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/hubeiws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/46/598ddc5e3797440b82e500d68b8d7c80.png "
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "央视频道",
+        "channels": [
+          {
+            "id": 8,
+            "name": "CCTV-1",
+            "slug": "CCTV1",
+            "auto": "/live/cctv1?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv1?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv1?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv1?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/8/c26f55d02ed24dd585689af9fc2a9357.png "
+          },
+          {
+            "id": 1,
+            "name": "CCTV-2",
+            "slug": "CCTV2",
+            "auto": "/live/cctv2?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv2?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv2?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv2?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/1/a4c75061bbe34157a40733985dd97f01.png "
+          },
+          {
+            "id": 27,
+            "name": "CCTV-3",
+            "slug": "CCTV3",
+            "auto": "/live/cctv3?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv3?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv3?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv3?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/27/7586400002b44db9a2eb6ffafa8bca28.png "
+          },
+          {
+            "id": 28,
+            "name": "CCTV-4",
+            "slug": "CCTV4",
+            "auto": "/live/cctv4?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv4?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv4?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv4?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/28/372d044a300b4e6c8643623ba13e7a5b.png "
+          },
+          {
+            "id": 29,
+            "name": "CCTV-5",
+            "slug": "CCTV5",
+            "auto": "/live/cctv5?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv5?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv5?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv5?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/29/50ca99439a324478a924dc4730d3db4f.png "
+          },
+          {
+            "id": 30,
+            "name": "CCTV-6",
+            "slug": "CCTV6",
+            "auto": "/live/cctv6?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv6?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv6?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv6?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/30/cdd010d058744496aca490bf1f508b38.png "
+          },
+          {
+            "id": 31,
+            "name": "CCTV-7",
+            "slug": "CCTV7",
+            "auto": "/live/cctv7?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv7?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv7?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv7?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/31/c7082f9e7b24435ab3b2a6e53a52ba31.png "
+          },
+          {
+            "id": 32,
+            "name": "CCTV-8",
+            "slug": "CCTV8",
+            "auto": "/live/cctv8?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv8?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv8?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv8?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/32/10f5cb6b9aac469d82d2133d9e3d3a46.png "
+          },
+          {
+            "id": 33,
+            "name": "CCTV-10",
+            "slug": "CCTV10",
+            "auto": "/live/cctv10?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv10?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv10?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv10?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/33/3a081a1e72fd439d88fba67bd3a75ef2.png "
+          },
+          {
+            "id": 34,
+            "name": "CCTV-11",
+            "slug": "CCTV11",
+            "auto": "/live/cctv11?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv11?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv11?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv11?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/34/c92c41b824f947ffa0547173a54c968a.png "
+          },
+          {
+            "id": 35,
+            "name": "CCTV-12",
+            "slug": "CCTV12",
+            "auto": "/live/cctv12?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv12?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv12?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv12?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/35/e871aeeacd984e909792b90e63af1597.png "
+          },
+          {
+            "id": 36,
+            "name": "CCTV-13",
+            "slug": "CCTV13",
+            "auto": "/live/cctv13?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv13?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv13?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv13?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/36/6e9c3c49e0b14afa8f28c61f97eabb33.png "
+          },
+          {
+            "id": 37,
+            "name": "CCTV-14",
+            "slug": "CCTV14",
+            "auto": "/live/cctv14?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv14?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv14?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv14?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/37/7ddb014ae1154989aaace35679b48240.png "
+          },
+          {
+            "id": 38,
+            "name": "CCTV-15",
+            "slug": "CCTV15",
+            "auto": "/live/cctv15?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/cctv15?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv15?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv15?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/38/53271a8843c74013bfe1e3b6ee2fd1e0.png "
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "专业频道",
+        "channels": [
+          {
+            "id": 63,
+            "name": "风云足球",
+            "slug": "CCTV_FYZQ",
+            "auto": "/live/cctv-fyzq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-fyzq?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-fyzq?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-fyzq?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/63/cee1e133de5548ff86a7719de2023f64.png "
+          },
+          {
+            "id": 65,
+            "name": "电视指南",
+            "slug": "CCTV_DSZN",
+            "auto": "/live/cctv-dszn?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-dszn?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-dszn?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-dszn?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/65/40e25f6e3a0145c8817bf5a193a17d85.png "
+          },
+          {
+            "id": 64,
+            "name": "风云剧场",
+            "slug": "CCTV_FYJC",
+            "auto": "/live/cctv-fyjc?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-fyjc?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-fyjc?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-fyjc?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/64/e281b6d9da9b4dbe8242501577cabb75.png "
+          },
+          {
+            "id": 66,
+            "name": "怀旧剧场",
+            "slug": "CCTV_HJJC",
+            "auto": "/live/cctv-hjjc?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-hjjc?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-hjjc?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-hjjc?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/66/b2aba0599ef54676adce2c479db52f46.png "
+          },
+          {
+            "id": 67,
+            "name": "国防军事",
+            "slug": "CCTV_GFJS",
+            "auto": "/live/cctv-gfjs?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-gfjs?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-gfjs?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-gfjs?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/67/ea3227b4460849e7801caf17351c1a95.png "
+          },
+          {
+            "id": 68,
+            "name": "世界地理",
+            "slug": "CCTV_SJDL",
+            "auto": "/live/cctv-sjdl?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-sjdl?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-sjdl?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-sjdl?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/68/f6f93ef639ee4bbdaab53e58cdb99307.png "
+          },
+          {
+            "id": 69,
+            "name": "央视精品",
+            "slug": "CCTV_YSJP",
+            "auto": "/live/cctv-ysjp?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-ysjp?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-ysjp?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-ysjp?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/69/31ddce225bb3400d9b2c5718343df51d.png "
+          },
+          {
+            "id": 70,
+            "name": "高尔夫网球",
+            "slug": "CCTV_GEF",
+            "auto": "/live/cctv-gef?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv-gef?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/cctv-gef?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctv-gef?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/70/0d4d5786ff23443c8fb56e4e319532e4.png "
+          },
+          {
+            "id": 42,
+            "name": "中华美食",
+            "slug": "ZHMS",
+            "auto": "/live/zhms?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/zhms?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/zhms?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/zhms?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/42/b60af432a9bd43aab9b8c82424e5a923.png "
+          },
+          {
+            "id": 41,
+            "name": "女性时尚",
+            "slug": "NXSS",
+            "auto": "/live/nxss?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/nxss?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/nxss?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/nxss?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/41/fdadccaf0d7d43bcacddbeeb8c21db79.png "
+          },
+          {
+            "id": 40,
+            "name": "游戏竞技",
+            "slug": "YXJJ",
+            "auto": "/live/yxjj?fmt=x264_0k_flv\u0026sora=7",
+            "supor": "/live/yxjj?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/yxjj?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/yxjj?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/40/fca23a23d6ef4e4ba712e177934c37f7.png "
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "高清频道",
+        "channels": [
+          {
+            "id": 87,
+            "name": "广东卫视高清",
+            "slug": "GDGQ",
+            "auto": "/live/gdgq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/gdgq?fmt=x264_2000k_flv",
+            "high": "/live/gdgq?fmt=x264_700k_flv",
+            "fluent": "/live/gdgq?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/87/e777c726a5e544b0bf1b9f509a5ff786.png "
+          },
+          {
+            "id": 86,
+            "name": "黑龙江卫视高清",
+            "slug": "HLJGQ",
+            "auto": "/live/hljws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/hljws?fmt=x264_2000k_flv",
+            "high": "/live/hljws?fmt=x264_700k_flv",
+            "fluent": "/live/hljws?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/86/4c0a91910d6f4360b125cd030a96130a.png "
+          },
+          {
+            "id": 85,
+            "name": "深圳卫视高清",
+            "slug": "SZGQ",
+            "auto": "/live/szgq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/szgq?fmt=x264_2000k_flv",
+            "high": "/live/szgq?fmt=x264_700k_flv",
+            "fluent": "/live/szgq?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/85/a80ec5715de6476086c418d1ad0a0037.png "
+          },
+          {
+            "id": 84,
+            "name": "北京卫视高清",
+            "slug": "BJGQ",
+            "auto": "/live/bjgq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/bjgq?fmt=x264_2000k_flv",
+            "high": "/live/bjgq?fmt=x264_700k_flv",
+            "fluent": "/live/bjgq?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/84/805fe99688f644b6a5ecb267fa486ff1.png "
+          },
+          {
+            "id": 83,
+            "name": "CCTV高清",
+            "slug": "CCTVGQ",
+            "auto": "/live/cctvgq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctvgq?fmt=x264_2000k_flv\u0026size=720x576",
+            "high": "/live/cctvgq?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/cctvgq?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/83/61d2b844664f4f13b48a22b0ef4949c3.png "
+          },
+          {
+            "id": 82,
+            "name": "CCTV-1高清",
+            "slug": "CCTV1GQ",
+            "auto": "/live/cctv1gq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/cctv1gq?fmt=x264_2000k_flv",
+            "high": "/live/cctv1gq?fmt=x264_700k_flv",
+            "fluent": "/live/cctv1gq?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/82/b361addbfa9a424a8326a7e0bc0f7f62.png "
+          },
+          {
+            "id": 81,
+            "name": "东方卫视高清",
+            "slug": "DFGQ",
+            "auto": "/live/dfgq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/dfgq?fmt=x264_2000k_flv",
+            "high": "/live/dfgq?fmt=x264_700k_flv",
+            "fluent": "/live/dfgq?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/81/1f6a96f807b744abae78921fa71fdf00.png "
+          },
+          {
+            "id": 80,
+            "name": "浙江卫视高清",
+            "slug": "ZJGQ",
+            "auto": "/live/zjgq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/zjgq?fmt=x264_2000k_flv",
+            "high": "/live/zjgq?fmt=x264_700k_flv",
+            "fluent": "/live/zjgq?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/80/6b6bb392d67f48398b44ce7fc774906c.png "
+          },
+          {
+            "id": 79,
+            "name": "湖南卫视高清",
+            "slug": "HNGQ",
+            "auto": "/live/hngq?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/hngq?fmt=x264_2000k_flv",
+            "high": "/live/hngq?fmt=x264_700k_flv",
+            "fluent": "/live/hngq?fmt=x264_400k_flv",
+            "backup": "",
+            "logo": "/Attachs/Channel/79/1af03f83037b465ba20f5b089427daf0.png "
+          },
+          {
+            "id": 78,
+            "name": "江苏卫视高清",
+            "slug": "JSGQ",
+            "auto": "/live/jsgq?fmt=x264_0k_flv\u0026sora=63",
+            "supor": "/live/jsgq?fmt=x264_2000k_flv\u0026size=720x576",
+            "high": "/live/jsgq?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/jsgq?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/78/6cacbdfe3b424f05819c356ab33051f9.png "
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "境外频道",
+        "channels": [
+          {
+            "id": 73,
+            "name": "TVB8",
+            "slug": "TVB8",
+            "auto": "/live/tvb8?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/tvb8?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/tvb8?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/tvb8?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/73/e8a959273aa640efb1ee46f8d76ab223.png "
+          },
+          {
+            "id": 72,
+            "name": "凤凰卫视",
+            "slug": "FHWS",
+            "auto": "/live/fhws?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/fhws?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/fhws?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/fhws?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/72/aec84080971541d3a080a355c61f2b9e.png "
+          },
+          {
+            "id": 71,
+            "name": "凤凰资讯",
+            "slug": "FHZX",
+            "auto": "/live/fhzx?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/fhzx?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/fhzx?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/fhzx?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/71/0e9905f66d7f4b8691b4ef26d25043c6.png "
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "地方频道",
+        "channels": [
+          {
+            "id": 77,
+            "name": "泰州综合",
+            "slug": "TZTV1",
+            "auto": "/live/tztv1?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/tztv1?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/tztv1?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/tztv1?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/77/96d7f49a4c8240348940e9a8ee873ff3.png "
+          },
+          {
+            "id": 76,
+            "name": "南京教科",
+            "slug": "NJKJ",
+            "auto": "/live/njkj?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/njkj?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/njkj?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/njkj?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/76/b31fb9e96c0249c69e7b4d0b50e68b67.png "
+          },
+          {
+            "id": 75,
+            "name": "十八频道",
+            "slug": "NJ18",
+            "auto": "/live/nj18?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/nj18?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/nj18?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/nj18?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/75/3b52924819d643b7b1ee25ac97b4c525.png "
+          },
+          {
+            "id": 74,
+            "name": "南京综合",
+            "slug": "NJZH",
+            "auto": "/live/njzh?fmt=x264_0k_flv\u0026sora=31",
+            "supor": "/live/njzh?fmt=x264_1400k_flv\u0026size=720x576",
+            "high": "/live/njzh?fmt=x264_700k_flv\u0026size=720x576",
+            "fluent": "/live/njzh?fmt=x264_400k_flv\u0026size=720x576",
+            "backup": "",
+            "logo": "/Attachs/Channel/74/e36f00f67bac402688c6bbf27bd3481b.png "
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  CNTV
+
+ 在线直播网页：http://tv.cntv.cn/live/cctv1
+
+ 手机应用下载：http://app.cntv.cn/
+
+   中国网络电视台的官方客户端，涵盖央视和CNTV的一些卫视节目
+
+   个人感觉还是网页版好，可以播放的电视台多，Pc用Cbox没有高清CCTV1，网页版却有，视频质量非常好。
+
+   手机端用CNTV比较好，Cbox不知道没有更新还是什么不能用，只是CNTV手机版的电视台只有40多个。
+
+  
+
+  芒果TV
+
+  在线直播网页：http://live.imgo.tv/
+
+  手机应用下载：http://www.imgo.tv/service/list_m3.html
+
+  芒果TV，就是湖南卫视。可能我家用这个就足够了。
+
+
+  在线直播的电视台网址：（随时间推移，可能网址有变动，需要flash，比起一些视频门户来说没有广告）
+
+  （推荐）城市联合网络电视台：http://tv.cutv.com/，由于是官方批准的电视台，比起非官方的电视直播来说比较靠谱，有很多地方台。
+
+  凤凰卫视（系列）：http://v.ifeng.com/live/
+
+  江苏卫视（系列）：http://live.jstv.com/
+
+  浙江卫视（系列）：http://tv.cztv.com/live
+
+  广西卫视（系列）：http://tv.gxtv.cn/
+
+  海南卫视（系列）：http://bluehn.com/vod/vod_media/
+
+  江西卫视（系列）：http://iptv.jxgdw.com/
+
+  河北卫视（系列）：http://www.hebtv.com/wlzb/
+
+  安徽卫视（系列）：http://www.ahtv.cn/v/live/
+
+  山西卫视（系列）：http://www.sxrtv.com/live/
+
+  湖北卫视（系列）：http://tv.hbtv.com.cn/live.htm
+
+  山东卫视（系列）：http://v.iqilu.com/live/
+
+  内蒙古卫视（系列）：http://www.nmtv.cn/live/index.shtml
+
+  青海卫视（系列）：http://qhtv.hunantv.com/live/
+
+  广东卫视（系列）：http://v.gdtv.cn/option/com_content/ItemId/92/
+
+  云南卫视（系列）：http://v.yntv.cn/live_yntv1.shtml
+
+
+ 视频门户，需要flash有广告：
+
+ SOUHU：http://tv.sohu.com/live/
+
+ PPTV：http://live.pptv.com/ 
+
+ PPS： http://live.pps.tv/
+
+ 这是我最早看电视的软件了。
+
+
+  介绍两个非官方电视：
+
+  非官方的东西就是不够稳定，因为不是官方批准的电视台，它们有自己的特色——就是台比较多。
+
+
+  风云直播
+
+  在线直播网页：http://www.fengyunzhibo.com/channel-list
+
+  手机应用下载：http://www.fengyunzhibo.com/page/mobile.htm
+
+  所谓的在线直播网站其实也就是用风云直播网站的模块。
+
+
+  易视直播
+
+  在线直播网页：http://www.cietv.com/live/
+
+  无爪机端，只能在Pc上看，台非常多，居然昆明台都有，只是有时候速度慢会断。
+

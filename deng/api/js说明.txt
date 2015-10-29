@@ -1,0 +1,15 @@
+首先加载js以获取地址
+例：
+<script type="text/javascript" src="ckplayer/ckplayer.js" charset="utf-8"></script>
+<script type="text/javascript" src="/api/js.php?ckid=XNzg1ODQ1MzQw.youku" charset="utf-8"></script>
+
+修改例：
+var flashvars={
+	f:'/api/?ckid=XNzg1ODQ1MzQw.youku',
+	a:'XNzg1ODQ1MzQw.youku',s:'2',
+	...
+
+然后修改html5时使用的
+var video=['http://movie.ks.js.cn/flv/other/1_0.mp4->video/mp4','http://www.ckplayer.com/webm/0.webm->video/webm','http://www.ckplayer.com/webm/0.ogv->video/ogg'];
+修改上面的为
+var video=deng;

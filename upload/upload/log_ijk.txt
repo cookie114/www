@@ -1,0 +1,132 @@
+10-26 09:07:35.843    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_native_profileBegin
+10-26 09:07:35.843    3878-3878 W/IJKMEDIA©s monstartup already called
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_native_setup
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ffpipeline_create_from_android()
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_format_callback(0xa064413d, 0x200b96)
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_format_callback()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_android_set_mediacodec_select_callback()
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ffpipeline_set_mediacodec_select_callback
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_android_set_mediacodec_select_callback()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setOptionLong
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int(overlay-format, 842225234)
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setOptionLong
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int(framedrop, 12)
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setOptionLong
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int(http-detect-range-support, 0)
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setOption
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option(user_agent, (null))
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setOptionLong
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int(probesize, 4194304)
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setOptionLong
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int(analyzeduration, 8000000)
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int()=void
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setOptionLong
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int(skip_loop_filter, 48)
+10-26 09:07:36.019    3878-3878 D/IJKMEDIA©s ijkmp_set_option_int()=void
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setDataSourceAndHeaders
+10-26 09:07:36.020    3878-3878 V/IJKMEDIA©s setDataSource: path /storage/sdcard0/Movies/Bee.mp4
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s ijkmp_set_data_source(url="/storage/sdcard0/Movies/Bee.mp4")
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s ijkmp_set_data_source(url="/storage/sdcard0/Movies/Bee.mp4")=0
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setVideoSurface
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s ijkmp_set_android_surface(surface=0xbec07510)
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s ffpipeline_set_surface()
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s ijkmp_set_android_surface(surface=0xbec07510)=void
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_prepareAsync
+10-26 09:07:36.020    3878-3878 D/IJKMEDIA©s ijkmp_prepare_async()
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s ===== options =====
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s player-opts : overlay-format               = 842225234
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s player-opts : framedrop                    = 12
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s format-opts : http-detect-range-support    = 0
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s format-opts : probesize                    = 4194304
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s format-opts : analyzeduration              = 8000000
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s codec-opts  : skip_loop_filter             = 48
+10-26 09:07:36.020    3878-3878 I/IJKMEDIA©s ===================
+10-26 09:07:36.023    3878-3878 D/IJKMEDIA©s ijkmp_prepare_async()=0
+10-26 09:07:36.023    3878-4130 I/IJKMEDIA©s SDL_RunThread: [4130] ff_vout
+10-26 09:07:36.023    3878-4130 D/IJKMEDIA©s ffpipenode_create_video_output_from_android_mediacodec()
+10-26 09:07:36.023    3878-4131 I/IJKMEDIA©s SDL_RunThread: [4131] ff_read
+10-26 09:07:36.024    3878-4129 I/IJKMEDIA©s SDL_RunThread: [4129] ff_msg_loop
+10-26 09:07:36.024    3878-4129 D/IJKMEDIA©s message_loop
+10-26 09:07:36.027    3878-4129 D/IJKMEDIA©s FFP_MSG_FLUSH:
+10-26 09:07:36.054    3878-4131 E/IJKMEDIA©s Option http-detect-range-support not found.
+10-26 09:07:36.121    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_setVideoSurface
+10-26 09:07:36.121    3878-3878 D/IJKMEDIA©s ijkmp_set_android_surface(surface=0xbec07940)
+10-26 09:07:36.121    3878-3878 D/IJKMEDIA©s ffpipeline_set_surface()
+10-26 09:07:36.122    3878-3878 D/IJKMEDIA©s ijkmp_set_android_surface(surface=0xbec07940)=void
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s max_frame_duration: 3600.000
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/storage/sdcard0/Movies/Bee.mp4':
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s Metadata:
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s major_brand     :
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s isom
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.362  3878: 4131 I/IJKMEDIA ]
+    minor_version   :
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s 1
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.362  3878: 4131 I/IJKMEDIA ]
+    compatible_brands:
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s isom
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.362  3878: 4131 I/IJKMEDIA ]
+    creation_time   :
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s 2011-06-24 03:09:38
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.362  3878: 4131 I/IJKMEDIA ]
+    Duration:
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s 00:01:18.14
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s , start:
+10-26 09:07:36.362    3878-4131 I/IJKMEDIA©s 0.000000
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s , bitrate:
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s 3639 kb/s
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.363  3878: 4131 I/IJKMEDIA ]
+    Stream #0:0
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s (und)
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s : Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1920x1080, 3510 kb/s
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s ,
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s 24 fps,
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s 24 tbr,
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s 24 tbn,
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s 48 tbc
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s (default)
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.363  3878: 4131 I/IJKMEDIA ]
+    Metadata:
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s creation_time   :
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s 1970-01-01 00:00:00
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.363  3878: 4131 I/IJKMEDIA ]
+    handler_name    :
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s VideoHandler
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.363  3878: 4131 I/IJKMEDIA ]
+    Stream #0:1
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s (und)
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s : Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 127 kb/s
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s (default)
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.363  3878: 4131 I/IJKMEDIA ]
+    Metadata:
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s creation_time   :
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s 1970-01-01 00:00:00
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.363  3878: 4131 I/IJKMEDIA ]
+    handler_name    :
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s SoundHandler
+10-26 09:07:36.363    3878-4131 I/IJKMEDIA©s [ 10-26 09:07:36.369  3878: 4131 I/IJKMEDIA ]
+    SDL_Android_AudioTrack: CHANNEL_OUT_STEREO
+10-26 09:07:36.369    3878-4131 I/IJKMEDIA©s SDL_Android_AudioTrack: ENCODING_PCM_16BIT
+10-26 09:07:36.378    3878-4131 I/IJKMEDIA©s SDL_Android_AudioTrack_new: init volume as 1.000000/(0.000000,1.000000)
+10-26 09:07:36.379    3878-4131 I/IJKMEDIA©s AudioCodec: avcodec, aac
+10-26 09:07:36.379    3878-4135 I/IJKMEDIA©s SDL_RunThread: [4135] ff_aout_android
+10-26 09:07:36.379    3878-4136 I/IJKMEDIA©s SDL_RunThread: [4136] ff_audio_dec
+10-26 09:07:36.386    3878-4131 I/IJKMEDIA©s VideoCodec: avcodec, h264
+10-26 09:07:36.386    3878-4131 W/IJKMEDIA©s fps: 24.000000 (normal)
+10-26 09:07:36.386    3878-4131 W/IJKMEDIA©s fps: 24.000000 (normal)
+10-26 09:07:36.388    3878-4129 D/IJKMEDIA©s ijkmp_get_msg: FFP_MSG_PREPARED
+10-26 09:07:36.388    3878-4129 D/IJKMEDIA©s FFP_MSG_PREPARED:
+10-26 09:07:36.389    3878-4129 D/IJKMEDIA©s FFP_MSG_VIDEO_SIZE_CHANGED: 1920, 1080
+10-26 09:07:36.389    3878-4129 D/IJKMEDIA©s FFP_MSG_SAR_CHANGED: 0, 1
+10-26 09:07:36.389    3878-4143 I/IJKMEDIA©s SDL_RunThread: [4143] ff_video_dec
+10-26 09:07:36.394    3878-3878 D/IJKMEDIA©s IjkMediaPlayer_start
+10-26 09:07:36.394    3878-3878 D/IJKMEDIA©s ijkmp_start()
+10-26 09:07:36.394    3878-3878 D/IJKMEDIA©s ijkmp_start()=0
+10-26 09:07:36.395    3878-4129 D/IJKMEDIA©s ijkmp_get_msg: FFP_REQ_START
+10-26 09:07:36.488    3878-4143 D/IJKMEDIA©s  (w=1920, h=1080, fmt=RV32(0x32335652, dp=0xa09e2a78)
+10-26 09:07:36.488    3878-4129 D/IJKMEDIA©s FFP_MSG_VIDEO_SIZE_CHANGED: 1920, 1080
+10-26 09:07:36.562    3878-4130 D/IJKMEDIA©s ANativeWindow_setBuffersGeometry: w=1920, h=1080, f=(0x4) => w=1920, h=1080, f=RV32(0x32335652)

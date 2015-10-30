@@ -2,6 +2,27 @@
 上传文件：<input type="file" name="upfile" /><br> 
 <input type="submit" value="上传" /></form> 
 <?php 
+/**
+POST http://192.168.2.143/upload/ HTTP/1.1
+Host: 192.168.2.143
+Connection: keep-alive
+Content-Length: 360819
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,;q=0.8
+Origin: http://192.168.2.143
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1918.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryvuJpKYvf4AAPOvkd
+Referer: http://192.168.2.143/upload/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+------WebKitFormBoundaryvuJpKYvf4AAPOvkd
+Content-Disposition: form-data; name="upfile"; filename="15.jpg"
+Content-Type: image/jpeg
+
+bindata....
+*/
+
 //print_r($_FILES["upfile"]); 
 if(is_uploaded_file($_FILES['upfile']['tmp_name'])){ 
 	$upfile=$_FILES["upfile"]; 
